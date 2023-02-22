@@ -41,7 +41,7 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 navbar-links:
   Home: "/"
   Privacy Policy: "privacypolicy"
-  Support: "https://supoort.raneydomain.com"
+  Support: "https://support.raneydomain.com"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
