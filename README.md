@@ -1,10 +1,17 @@
-# RaneyDomain Public Website
+# RaneyDomain - Website
 
-This repository is used to store the source code for [RaneyDomain.com's](https://www.raneydomain.com) public website.
+## Favicon Assets
+[Favicon generator](https://favicon.io/favicon-converter/)
 
-## Template Details
+## Build and Test
+To run this locally, you'll need to first install the prerequisites and setup your environment. Run the following commands.
 
-- **Template Name:** `BizLand`
-- **Template URL:** [https://bootstrapmade.com/bizland-bootstrap-business-template/](https://bootstrapmade.com/bizland-bootstrap-business-template/)
-- **Author:** [BootstrapMade.com](https://BootstrapMade.com)
-- **License:** [https://bootstrapmade.com/license/](https://bootstrapmade.com/license/)
+```bash
+bundle install
+```
+
+After you're environment is setup, run the commands to start a local instance
+
+```bash
+bundle exec jekyll serve --livereload
+```
